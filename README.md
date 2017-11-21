@@ -1,0 +1,1 @@
+# seriepreferita_resources
