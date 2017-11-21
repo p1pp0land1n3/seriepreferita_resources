@@ -1,1 +1,3 @@
-# seriepreferita_resources
+# Resources of SeriePreferita.ml
+
+## I'm sorry, there's nothing to see here...
